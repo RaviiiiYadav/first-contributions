@@ -166,7 +166,7 @@ adarshKumar
 - [Manishit mani]()
 - Saintspec
 -[Shuraim Shafiulla](https://github.com/Shuraimi)
-- [Girish Bari](https://github.com/Girishbari)
+-Ravi [Girish Bari](https://github.com/Girishbari)
 - [Rohan Sharma](https://github.com/Rohanfizz)
 - [Nitin Kumar] (https://github.com/CKShere)
 - [Md Irfan] (https://github.com/irfan7839)
